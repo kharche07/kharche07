@@ -1,6 +1,6 @@
 
+- Hi, I’m Akshay Kharche :smiley:  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
 - ✨ About Me in 30 Secs ✨
-- Hi, I’m Akshay Kharche :smiley: :wave:
 - I am currently working as a Data Specialist II at [**HERE TECHNOLOGIES**](https://www.here.com/)
 - Loves working with numbers and learning new skills.
 - I’m looking to collaborate on live projects.
@@ -20,14 +20,11 @@
 ### 🤝 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/akshaykharche/)
 [![Tableau Public](https://img.shields.io/badge/Tableau_Public-%232C2D72.svg?style=for-the-badge&logo=Tableau&&logoColor=white)](https://public.tableau.com/app/profile/akshay.kharche) 
-![Gmail](https://img.shields.io/badge/akshaykharche07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail](https://img.shields.io/badge/akshaykharche07@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:akshaykharche07@gmail.com)
 
 
-[![Akshay's github stats](https://github-readme-stats.vercel.app/api?username=kharche07&hide=contribs,prs)](https://github.com/anuraghazra/github-readme-stats)
--->
 
 
-![](https://komarev.com/ghpvc/?username=kharche07&style=social)
 
 
 <!---
