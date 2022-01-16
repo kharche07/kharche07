@@ -1,7 +1,7 @@
 
 - Hi, I’m Akshay Kharche :smiley:  <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="20px">
 - ✨ About Me in 30 Secs ✨
-- I am currently working as a Data Specialist II at [**HERE TECHNOLOGIES**](https://www.here.com/)
+- I am currently working as a Software Engineer at [**Impetus**](https://www.impetus.com/)
 - Loves working with numbers and learning new skills.
 - I’m looking to collaborate on live projects.
 
